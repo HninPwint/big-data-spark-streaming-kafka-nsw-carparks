@@ -1,13 +1,13 @@
-### Big Data Engineering - Real Time Analytics with Spark Streaming
-This is the University group assignment project done 
-* Subject - Big Data Engineering 
-* Course -  Master of Data Science and Innovaion (MDSI) , University of Technology Sydney in Autumn 2021.
+## Big Data Engineering - Real Time Analytics with Spark Streaming
 
+### Project Background
+* University Group Assignment Project 
+* Subject - Big Data Engineering 
+* Course -  Master of Data Science and Innovaion (MDSI) , University of Technology Sydney, Autumn 2021.
 * Time Taken - 3 weeks (23 May 2021 - 13 Jun 2021)
 * Group Members - Irfan Sampe, Ki Ming Wong, Hnin Pwint Tin, Joe
 * Assignment Title - Real Time Analytics with Spark Streaming
 * Assignment Objective - Build a streaming application on which real time analytics will be performed and deploy a ML model for real time predictions.
-
 
 ### Project Oveview
 * Business Use Case - Carparks occupancy data in NSW Carparks
