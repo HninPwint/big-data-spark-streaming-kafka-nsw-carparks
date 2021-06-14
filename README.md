@@ -1,7 +1,8 @@
-# mdsi-bde-streaming-kafka-spark-carparks
+### Big Data Engineering - Streaming with Spark and Kafka - NSW Carpark Occupancy
 
-# This is the University group assignment project done in the subject Big Data Engineering
-## during the course Master of Data Science and Innovaion (MDSI) at University of Technology Sydney in Autumn 2021.
+This is the University group assignment project done 
+* Subject - Big Data Engineering 
+* Study Course -  Master of Data Science and Innovaion (MDSI) , University of Technology Sydney in Autumn 2021.
 
 * Time Taken - 2 weeks (23 May 2021 - 13 Jun 2021)
 * Group Members - Irfan Sampe, Ki Ming Wong, Hnin Pwint Tin, Joe
