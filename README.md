@@ -1,4 +1,4 @@
-## Big Data Engineering - Real Time Analytics with Spark Streaming
+## Big Data Engineering - Real Time Data Analytics with Kafka and Spark Streaming
 
 ### Project Background
 * University Group Assignment Project 
