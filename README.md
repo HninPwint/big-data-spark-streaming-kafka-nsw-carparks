@@ -1,4 +1,4 @@
-### Big Data Engineering - Streaming with Spark and Kafka - NSW Carpark Occupancy
+### Big Data Engineering - Real Time Analytics with Spark Streaming
 
 This is the University group assignment project done 
 * Subject - Big Data Engineering 
@@ -9,3 +9,4 @@ This is the University group assignment project done
 * Project Title - Real Time Analytics with Spark Streaming
 * Project Objective - Build a streaming application on which real time analytics and
  deploy will be performed and deploy a ML model for real time predictions.
+ * Use case - New South Wales Carparks
