@@ -1,5 +1,4 @@
 ### Big Data Engineering - Real Time Analytics with Spark Streaming
-
 This is the University group assignment project done 
 * Subject - Big Data Engineering 
 * Course -  Master of Data Science and Innovaion (MDSI) , University of Technology Sydney in Autumn 2021.
