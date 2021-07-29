@@ -14,5 +14,5 @@
 * Data Source - Open Data
 * Stream Data with Kafka Producer to the Broker and the Consumer will subscribe data
 * Subscribed data is saved as Parquet format and used as training data to perform ML modelling (Linear Regression)
-* The real time prediction is perform on live stream of data by the trained model and stream the prediction results
+* The real time prediction is performed on live stream of data by the trained model and stream the prediction results
 * The real-time data visualisation on car parks' occupancy and availability is also genertated
