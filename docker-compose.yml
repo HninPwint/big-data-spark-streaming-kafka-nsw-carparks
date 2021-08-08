@@ -5,7 +5,7 @@
       build:
         context: .
         dockerfile: ./Dockerfile
-      container_name: jupyter_docker_at3
+      container_name: jupyter_docker_kafka
       ports:
         - "8888:8888"
       environment:
