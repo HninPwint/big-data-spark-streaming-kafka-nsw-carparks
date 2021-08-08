@@ -16,3 +16,13 @@
 * Subscribed data is saved as Parquet format and used as training data to perform ML modelling (Linear Regression)
 * The real time prediction is performed on live stream of data by the trained model and stream the prediction results
 * The real-time data visualisation on car parks' occupancy and availability is also genertated
+
+### Project Set up
+* ``` docker-compose up -d ``` to launch the docker container
+* ``` docker logs --tail -50 jupyter-docker-kafka``` to see the logs
+* to launch the jupyter lab, copy and paste the url printed out in the console from the above command, the url would be similar to http://127.0.0.1:8888/lab?token=61b5923754239axxxxxx
+
+### Confluent Interface
+* To access the Confluent UI, http://localhost:9021/clusters
+
+
